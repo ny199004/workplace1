@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/javanio/javanio.iml" filepath="$PROJECT_DIR$/javanio/javanio.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadTest.iml" filepath="$PROJECT_DIR$/threadTest.iml" />
     </modules>
   </component>
