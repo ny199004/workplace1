@@ -20,6 +20,7 @@ public class Web12306 implements  Runnable {
          Web12306 real1=new Web12306();
          String str= new String();
          String s=new String("aa");
+          System.out.println("github直接新增");
          Thread t1=new Thread(real,"t1");
         Thread t2=new Thread(real,"t2");
         Thread t3=new Thread(real,"t3");
