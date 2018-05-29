@@ -10,6 +10,7 @@ public class TestCallable {
         int num=result.get();
         System.out.println(result);
         ser.shutdown();
+        System.out.println("修改");
     }
 }
 
