@@ -21,6 +21,7 @@ public class Web12306 implements  Runnable {
          String str= new String();
          String s=new String("aa");
           System.out.println("github直接新增");
+        System.out.println("test4");
          Thread t1=new Thread(real,"t1");
         Thread t2=new Thread(real,"t2");
         Thread t3=new Thread(real,"t3");
